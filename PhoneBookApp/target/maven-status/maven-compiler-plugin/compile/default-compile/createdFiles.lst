@@ -1,0 +1,14 @@
+com\employee\phonebookapp\JakartaRestConfiguration.class
+com\servlet\DeleteContactServlet.class
+com\servlet\AddContactSevlet.class
+com\servlet\LogoutServlet.class
+com\dao\ContactDAO.class
+com\dao\UserDAO.class
+com\servlet\LoginServlet.class
+com\servlet\RegisterServlet.class
+com\employee\phonebookapp\resources\JakartaEE10Resource.class
+com\utility\SortingContact.class
+com\servlet\EditContactServlet.class
+com\entity\Contact.class
+com\entity\User.class
+com\ccon\DBconnect.class
